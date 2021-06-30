@@ -1,0 +1,13 @@
+E:\Project\C#\Linear_search\bin\Debug\netcoreapp3.1\Linear_search.exe
+E:\Project\C#\Linear_search\bin\Debug\netcoreapp3.1\Linear_search.deps.json
+E:\Project\C#\Linear_search\bin\Debug\netcoreapp3.1\Linear_search.runtimeconfig.json
+E:\Project\C#\Linear_search\bin\Debug\netcoreapp3.1\Linear_search.runtimeconfig.dev.json
+E:\Project\C#\Linear_search\bin\Debug\netcoreapp3.1\Linear_search.dll
+E:\Project\C#\Linear_search\bin\Debug\netcoreapp3.1\Linear_search.pdb
+E:\Project\C#\Linear_search\obj\Debug\netcoreapp3.1\Linear_search.csproj.AssemblyReference.cache
+E:\Project\C#\Linear_search\obj\Debug\netcoreapp3.1\Linear_search.AssemblyInfoInputs.cache
+E:\Project\C#\Linear_search\obj\Debug\netcoreapp3.1\Linear_search.AssemblyInfo.cs
+E:\Project\C#\Linear_search\obj\Debug\netcoreapp3.1\Linear_search.csproj.CoreCompileInputs.cache
+E:\Project\C#\Linear_search\obj\Debug\netcoreapp3.1\Linear_search.dll
+E:\Project\C#\Linear_search\obj\Debug\netcoreapp3.1\Linear_search.pdb
+E:\Project\C#\Linear_search\obj\Debug\netcoreapp3.1\Linear_search.genruntimeconfig.cache
